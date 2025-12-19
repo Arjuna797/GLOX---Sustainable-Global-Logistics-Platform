@@ -4,11 +4,29 @@
 
 **A modern, high-performance supply chain management solution designed for specific implementation of eco-friendly logistics.**
 
+
+https://github.com/user-attachments/assets/af348df5-db1d-4221-add8-3801172c2619
+
+
+
+
+
+
+
+
+
+
+
 [View Dashboard](#) • [Report Bug](https://github.com/Arjuna797/GLOX---Sustainable-Global-Logistics-Platform/issues) • [Request Feature](https://github.com/Arjuna797/GLOX---Sustainable-Global-Logistics-Platform/issues)
 
 </div>
 
 ---
+
+
+
+
+
 
 ## 🛠️ Tech Stack
 
@@ -74,5 +92,5 @@
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Global Express Team</sub>
+  
 </div>
