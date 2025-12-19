@@ -1,0 +1,59 @@
+{
+    "analytics": [
+        {
+            "year": "2015",
+            "emissions": 4200,
+            "savings": 0
+        },
+        {
+            "year": "2016",
+            "emissions": 4150,
+            "savings": 120
+        },
+        {
+            "year": "2017",
+            "emissions": 4300,
+            "savings": 350
+        },
+        {
+            "year": "2018",
+            "emissions": 3950,
+            "savings": 680
+        },
+        {
+            "year": "2019",
+            "emissions": 3800,
+            "savings": 950
+        },
+        {
+            "year": "2020",
+            "emissions": 3200,
+            "savings": 1100
+        },
+        {
+            "year": "2021",
+            "emissions": 3400,
+            "savings": 1450
+        },
+        {
+            "year": "2022",
+            "emissions": 2900,
+            "savings": 1900
+        },
+        {
+            "year": "2023",
+            "emissions": 2600,
+            "savings": 2400
+        },
+        {
+            "year": "2024",
+            "emissions": 2100,
+            "savings": 3100
+        }
+    ],
+    "metrics": {
+        "totalSavings": "12,050 Tons",
+        "currentEmissions": "2,100 Tons",
+        "target": "Net Zero 2040"
+    }
+}
